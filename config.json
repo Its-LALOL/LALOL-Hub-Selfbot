@@ -1,1 +1,9 @@
-{"test": 76}
+{
+    "GENERAL": {
+        "token": "None",
+        "prefix": "None"
+    },
+    "OTHERS": {
+        "enableExec": false
+    }
+}
