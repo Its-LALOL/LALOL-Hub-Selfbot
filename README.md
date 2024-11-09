@@ -1,2 +1,2 @@
 # LALOL-Hub-Selfbot
-Coming soon.
+Coming soon. (no 🤣)
